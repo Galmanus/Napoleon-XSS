@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+aiofiles==23.2.1
+fake-useragent==1.5.1
+
